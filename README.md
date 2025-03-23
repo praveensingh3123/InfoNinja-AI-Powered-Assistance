@@ -1,6 +1,9 @@
-# GeniusBot: AI-Powered Assistance with PDF Insight
 
-GeniusBot is a Streamlit-based chatbot application that leverages the power of OpenAI's GPT-3.5-turbo language model to provide intelligent assistance to users. This application is designed to help users gain insights from PDF documents by allowing them to upload a PDF file and ask questions related to its content. Additionally, GeniusBot can also answer simple questions without the need to upload a PDF.
+
+
+# InfoNinja: AI-Powered Assistance with PDF Insight
+
+InfoNinja is a Streamlit-based chatbot application that leverages the power of OpenAI's GPT-3.5-turbo language model to provide intelligent assistance to users. This application is designed to help users gain insights from PDF documents by allowing them to upload a PDF file and ask questions related to its content. Additionally, InfoNinja can also answer simple questions without the need to upload a PDF.
 
 ## Features
 
